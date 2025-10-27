@@ -1,0 +1,27 @@
+MT4-Currency-Dashboard-Suite/
+├── 📁 MQL4/
+│   ├── 📁 Indicators/
+│   │   ├── Professional_Dashboard.mq4
+│   │   ├── QuickScanner_Dashboard.mq4
+│   │   └── Currency_Strength_Engine.mq4
+│   ├── 📁 Includes/
+│   │   ├── CurrencyStrength.mqh
+│   │   ├── NewsParser.mqh
+│   │   ├── GUI_Engine.mqh
+│   │   └── Utils.mqh
+│   └── 📁 Presets/
+│       ├── Professional_Dashboard.set
+│       └── QuickScanner_Dashboard.set
+├── 📁 Docs/
+│   ├── INSTALLATION.md
+│   ├── SETUP_GUIDE.md
+│   └── FEATURES.md
+├── 📁 Screenshots/
+│   ├── professional-dashboard.png
+│   ├── quick-scanner.png
+│   └── news-integration.png
+├── 📁 Examples/
+│   ├── custom_configs/
+│   └── templates/
+├── LICENSE
+└── README.md
